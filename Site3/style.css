@@ -352,3 +352,8 @@
                 justify-content: start;
                 gap: 24px;
             }
+            
+            .con {
+                background: #FFF;
+                border: 1px solid transparent;
+            }
